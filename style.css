@@ -1,0 +1,17 @@
+.do{
+    display:flex;
+    justify-content:center;
+}
+body{
+    background-color: beige;
+}
+.table{
+   
+    border:2px solid black;
+}
+.row{
+    border:2px solid black;
+}
+.no-of-notes{
+    border:2px solid black;
+}
